@@ -1,0 +1,7 @@
+{
+    "dart.flutterSdkPath": "/Users/yataka/.local/share/mise/installs/flutter/3.29.2-stable",
+    "debug.javascript.defaultRuntimeExecutable": {
+        "pwa-node": "/Users/yataka/.local/share/mise/shims/node"
+    },
+    "python.defaultInterpreterPath": "/Users/yataka/.local/share/mise/installs/python/3.12.9/bin/python"
+}
