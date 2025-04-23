@@ -1,2 +1,6 @@
+min_version = "2025.4.6"
 [tools]
-flutter = "3.29.2"
+
+
+
+flutter = "3.29.3"
